@@ -1,2 +1,4 @@
-# Organo_reactjs 
-Projeto feito com a finalidade do estudo de React Js
+# Organo_reactjs
+
+## Finalidade:
+Desenvolvimento de habilidades para troca de React JS.
